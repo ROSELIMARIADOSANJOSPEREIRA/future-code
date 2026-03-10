@@ -1,41 +1,49 @@
-# 🚀 Código Futuro
+# 👩‍💻 Olá, eu sou Roseli!
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Learning](https://img.shields.io/badge/Learning-Programming-green)
 
-📚 Repositório criado para registrar minha jornada de aprendizado em desenvolvimento de sistemas.
+💻 Aprendendo programação , tecnologia, python, Css, Html  
 
 ---
 
-## 👩‍💻 Sobre mim
+## 🚀 Tecnologias em aprendizado
 
-🎓 Estudante de Desenvolvimento de Sistemas
-
----
-
-## 💻 Tecnologias
-
-- 🐍 Python
-- 🧠 Lógica de Programação
-- 💻 GitHub
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+</p>
 
 ---
 
-## 📂 Conteúdo
+## 📚 Áreas de interesse
 
-Este repositório reúne:
-
-- exercícios de programação
-- prática de algoritmos
-- projetos de aprendizado
-
----
-
-## 🌱 Em aprendizado contínuo
-
-Este espaço será atualizado conforme avanço nos estudos em tecnologia e programação.
+🧮 Matemática  
+💻 Programação  
+🎨 Arte e criatividade  
+🤖 Tecnologia e inovação  
 
 ---
 
-⭐ Autora: **Roseli Maria dos Anjos Pereira**
+## 🌱 Atualmente estudando
+
+- Python
+- lógica de programação
+- tecnologia aplicada à educação
+- HTML
+- CSS
+  
+------------
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roseli-anjos/)
+
+
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roselimariadosanjospereira@gmail.com)
+
+
+
+## ✨ Frase
+
+"Aprender é transformar curiosidade em conhecimento."
